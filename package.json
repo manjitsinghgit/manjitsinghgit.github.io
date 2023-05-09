@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "smart-webcomponents": "^15.2.0"
+  }
+}
